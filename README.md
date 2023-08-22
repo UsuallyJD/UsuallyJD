@@ -24,7 +24,7 @@ Here are some of the projects I've worked on:
 
 Let's connect and collaborate:
 
-- [LinkedIn](Your LinkedIn Profile Link)
+- www.linkedin.com/in/jd-mayer-90434226a
 - [Portfolio Website](Your Portfolio Website Link)
 
 ## 💬 Get in Touch
