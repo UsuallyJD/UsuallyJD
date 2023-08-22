@@ -1,6 +1,6 @@
 # Hello, I'm JD! 👋
 
-I'm a Data Scienctist and Mathematics enthusiast currently based in northern Nevada, and this is my GitHub playground!
+I'm a Data Scientist and Mathematics enthusiast currently based in northern Nevada, and this is my GitHub playground!
 
 ## About Me
 
