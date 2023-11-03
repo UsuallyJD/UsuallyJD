@@ -8,7 +8,7 @@ I thrive on uncovering hidden patterns and deriving meaningful insights from com
 
 ## 🚀 What I'm Working On
 
-- 📊 Currently, I'm fully immersed in a comprehensive data science and coding program, where I'm building on my analytical background to break into the world of data analysis, machine learning, and predictive modeling.
+- 📊 Recently completed a comprehensive data science and coding program, where I built on my analytical background to enter the world of data analysis, machine learning, and predictive modeling.
 - 📈 Exploring real-world datasets to uncover insights and trends that drive informed decision-making.
 - 🤖 Applying cutting-edge techniques to develop machine learning models that solve complex problems.
 - 🎓 Enhancing my skills in data visualization to effectively communicate findings to both technical and non-technical audiences.
