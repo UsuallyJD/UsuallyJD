@@ -17,8 +17,8 @@ I thrive on uncovering hidden patterns and deriving meaningful insights from com
 
 Here are some of the projects I've worked on:
 
-- Data-driven Analysis: Predicting Results from Formula One Racing (Link to Project Repo) - Exploratory data analysis of live sport.
-- [Amazon_LDA](https://github.com/UsuallyJD/amazon_lda): NLP topic analysis of Amazon reviews of the Kindle Fire and iPad using Latent Dirichlet Allocation
+- Data-driven Analysis: Predicting Results from Formula One Racing - Exploratory data analysis of live sport.
+- [Amazon_LDA](https://github.com/UsuallyJD/amazon_lda): NLP topic analysis for Amazon reviews of the Kindle Fire and iPad using Latent Dirichlet Allocation
 
 ## 🌐 Connect with Me
 
