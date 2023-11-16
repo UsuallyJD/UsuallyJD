@@ -19,6 +19,7 @@ Here are some of the projects I've worked on:
 
 - [Data-Driven: Analyzing Noncompliant Information](https://github.com/UsuallyJD/data-driven.git): Comparing Model Architectures for Predicting Results of Formula One Racing - Exploratory data analysis of live sport (difficult dataset to predict)
 - [Topic Analysis in Amazon Reviews](https://github.com/UsuallyJD/amazon_lda): NLP topic analysis for Amazon reviews of the Kindle Fire and iPad using Latent Dirichlet Allocation
+- - [Computer Vision Analysis of Jellyfish](https://github.com/UsuallyJD/jellyfish_vis.git): Deep convolutional neural network model for classifying jellyfish images by species
 
 ## 🌐 Connect with Me
 
